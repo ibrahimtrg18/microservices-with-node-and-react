@@ -1,0 +1,3 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/ibrahimtrg18/microservices-with-node-and-react-blog.git
